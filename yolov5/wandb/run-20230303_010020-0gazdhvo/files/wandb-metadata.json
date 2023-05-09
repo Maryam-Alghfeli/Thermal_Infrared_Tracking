@@ -1,0 +1,208 @@
+{
+    "os": "Linux-5.4.232-ql-generic-12.0-23-x86_64-with-glibc2.10",
+    "python": "3.8.0",
+    "heartbeatAt": "2023-03-02T21:00:21.432712",
+    "startedAt": "2023-03-02T21:00:20.339616",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--epochs",
+        "20"
+    ],
+    "state": "running",
+    "program": "train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/ultralytics/yolov5",
+        "commit": "5c91daeaecaeca709b8b6d13bd571d068fdbd003"
+    },
+    "email": null,
+    "root": "/home/nouf.alshamsi/AI702/Project/yolov5",
+    "host": "ws-l6-014",
+    "username": "nouf.alshamsi",
+    "executable": "/home/nouf.alshamsi/anaconda3/envs/tracking/bin/python",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2223.0136562499997,
+        "min": 2200.0,
+        "max": 3900.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2161.922,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2201.331,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2184.394,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2169.352,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2167.904,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2197.885,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2177.699,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2176.142,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2218.975,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2246.558,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2184.683,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2196.844,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2200.775,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2195.263,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2185.118,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2186.472,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2175.811,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2205.273,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2163.537,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2170.187,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2130.091,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2270.073,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2197.929,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2177.942,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2212.674,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 3300.993,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2163.147,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2146.935,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2207.002,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2190.52,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2185.923,
+            "min": 2200.0,
+            "max": 3900.0
+        },
+        {
+            "current": 2187.083,
+            "min": 2200.0,
+            "max": 3900.0
+        }
+    ],
+    "disk": {
+        "total": 1.0,
+        "used": 0.07854080200195312
+    },
+    "gpu": "NVIDIA GeForce RTX 4090",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4090",
+            "memory_total": 25757220864
+        }
+    ],
+    "memory": {
+        "total": 62.7354850769043
+    }
+}
