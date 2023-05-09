@@ -1,0 +1,14 @@
+path: ../datasets/FLIR
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['bicycle', 'car', 'dog', 'person']
+
+roboflow:
+  workspace: mbzuai
+  project: mar_flir
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mbzuai/mar_flir/dataset/1

@@ -1,0 +1,13 @@
+path: ../datasets/TII
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+nc: 28
+names: ['ATV driver', 'ATV', 'Buggy', 'Bus', 'Car1', 'Car10', 'Car11', 'Car2', 'Car3', 'Car4', 'Car5', 'Car6', 'Car7', 'Car8', 'Car9', 'Motorcyclist', 'Person1', 'Person2', 'Person3', 'Person4', 'Person5', 'Person6', 'Person7', 'Person8', 'Person9', 'SmallBus', 'Truck', 'UtilityTruck']
+
+roboflow:
+  workspace: mariam-6r3gw
+  project: mar-ml5kr
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mariam-6r3gw/mar-ml5kr/dataset/1

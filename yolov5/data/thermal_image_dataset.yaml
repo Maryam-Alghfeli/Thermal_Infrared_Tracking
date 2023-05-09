@@ -1,0 +1,14 @@
+path: /home/nouf.alshamsi/AI702/Project/datasets
+train: /home/nouf.alshamsi/AI702/Project/datasets/train/images
+val: /home/nouf.alshamsi/AI702/Project/datasets/valid/images
+test: /home/nouf.alshamsi/AI702/Project/datasets/test/images
+
+nc: 1
+names: ['person']
+
+roboflow:
+  workspace: project
+  project: people-detection-thermal
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/project/people-detection-thermal/dataset/5
