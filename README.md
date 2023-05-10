@@ -2,6 +2,8 @@
 
 Thermal infrared tracking using YOLOv5 and DeepSORT is a powerful computer vision technique that accurately tracks objects in low-light and no-light environments. YOLOv5 is a state-of-the-art object detection algorithm that can accurately detect and classify objects in thermal infrared images. DeepSORT is a sophisticated tracking algorithm that combines appearance features and motion information to assign unique IDs to each tracked object, enabling the tracker to identify and track multiple objects simultaneously accurately.
 
+![FLIR](https://github.com/Maryam-Alghfeli/Thermal_Infrared_Tracking/assets/65627905/ce00de9b-5f46-4117-8e31-86fe694cc5e7) 
+
 By combining the capabilities of YOLOv5 and DeepSORT, it is possible to develop a robust thermal infrared tracking system that can operate in a wide range of challenging environmental conditions. This system can detect and track moving objects and provide real-time location data to the user. Moreover, this system can handle complex situations like object interactions and partial occlusions, making it an effective solution for various applications, including military, security, and surveillance.
 
 Moreover, The Bees Algorithm (BA) is used to find the optimal values of the number of epochs and batches of YOLOv5 to enhance the precision of the used system. The bee consists of the number of epochs, batches, and the precision value obtained from running YOLOv5.
